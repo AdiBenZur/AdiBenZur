@@ -6,9 +6,10 @@
 
   
 - 📫 How to reach me - adi.benzur@gmail.com
-- Linkedin- 
-<a href="https://www.linkedin.com/in/adi-ben-zur-4372b32a0/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/icons/linkedin
-/linkedin-original-wordmark.svg" alt="Adi Ben Zur Linkedin" width="40" height="40"/> </a>
+  
+- Linkedin:
+  <a href="https://www.linkedin.com/in/adi-ben-zur-4372b32a0/" target="_blank" rel="noreferrer"> my Linkedin </a>
+
 
 <h3 align="left">Languages:</h3>
 <p align="left">
