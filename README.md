@@ -2,7 +2,7 @@
 
 <h3>3nd year student of BSc in Computer Science</h3>
 
-<h3>Motivated developer from Israel</h3>
+<h3>Motivated developer</h3>
 
   
 - 📫 How to reach me - adi.benzur@gmail.com
