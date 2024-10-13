@@ -1,6 +1,6 @@
  # Hi, I’m Adi Ben Zur! 👋
 
-<h3>3nd year student of BSc in Computer Science</h3>
+<h3>A Computer Science graduate</h3>
 
 <h3>Motivated developer</h3>
 
